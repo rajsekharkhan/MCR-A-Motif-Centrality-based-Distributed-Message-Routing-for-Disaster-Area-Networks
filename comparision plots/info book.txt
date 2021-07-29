@@ -1,0 +1,9 @@
+experiment 9 : average l;atency of different model
+model code in experiment 10 file
+plot code in experiment 9 file
+
+experiment 10 :	energy drain with time for different model
+model code in experiment 10 file
+plot code and result copy in experiment 10 file
+
+experiment 11 :	
